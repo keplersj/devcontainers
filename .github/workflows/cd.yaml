@@ -24,4 +24,4 @@ jobs:
         with:
           file: alpine-base.dockerfile
           push: true
-          tags: keplersj/alpine-dev-base:latest
+          tags: ghcr.io/keplersj/alpine-dev-base:latest
