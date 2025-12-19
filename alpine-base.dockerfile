@@ -4,4 +4,4 @@ RUN apk add \
   build-base \
   git \
   starship \
-  helix-editor
+  helix
